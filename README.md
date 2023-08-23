@@ -1,1 +1,1 @@
-# Rezepte-IKT23
+console.log('neuer service worker registriert)
